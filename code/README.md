@@ -1,5 +1,3 @@
-# Pstage_03_KLUE_Relation_extraction
-
 ### training
 * python train.py
 
