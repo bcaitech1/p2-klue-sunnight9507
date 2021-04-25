@@ -1,4 +1,4 @@
-## P stage 2 Relation Extraction
+## P stage 2 KLUE Relation Extraction
 
 - **`TASK`** : 문장의 단어(Entity)에 대한 속성과 관계를 예측
 - 진행 기간: 2021.04.12 ~ 2021.04.22
